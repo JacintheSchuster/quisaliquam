@@ -1,0 +1,19 @@
+{
+  "name": "quisaliquam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "get-eth-balances": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacintheSchuster/quisaliquam.git"
+  },
+  "author": "KirstinThiel",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "dependencies": {
+    "args": "^5.0.0",
+    "request": "^2.88.0"
+  }
+}
